@@ -16,7 +16,7 @@ public class Limitations {
     public static final int SCOREBOARD_TITLE_PRE_1_13 = 32;
 
     /** Max team prefix/suffix length for versions below 1.13 */
-    public static final int TEAM_PREFIX_SUFFIX_PRE_1_13 = 16;
+    public static final int TEAM_PREFIX_SUFFIX_PRE_1_13 = 32;
 
     /** Max tablist entry length for 1.7 and lower */
     public static final int MAX_DISPLAY_NAME_LENGTH_1_7 = 16;

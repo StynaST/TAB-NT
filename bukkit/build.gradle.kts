@@ -7,10 +7,10 @@ dependencies {
     compileOnly("com.github.MilkBowl:VaultAPI:1.7") {
         exclude("org.bukkit", "bukkit")
     }
-    compileOnly("LibsDisguises:LibsDisguises:10.0.21") {
+    compileOnly("me.libraryaddict.disguises:libsdisguises:11.0.0") {
         exclude("org.spigotmc", "spigot")
         exclude("org.spigotmc", "spigot-api")
-        exclude("com.github.dmulloy2", "ProtocolLib")
+        exclude("com.github.retrooper", "packetevents")
         exclude("org.ow2.asm", "asm")
         exclude("net.md-5", "bungeecord-chat")
     }
