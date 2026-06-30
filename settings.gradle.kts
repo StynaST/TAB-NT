@@ -12,7 +12,7 @@ dependencyResolutionManagement {
         maven("https://repo.spongepowered.org/repository/maven-public/") // Sponge
         maven("https://jitpack.io") // PremiumVanish, Vault, YamlAssist, RedisBungee
         maven("https://repo.md-5.net/content/groups/public/") // bungeecord-chat
-        maven("https://mvn.lib.co.nz/public") { // LibsDisguises (11.0.0+ coordinate/repo)
+        maven("https://mvn.lib.co.nz/public") { // LibsDisguises
             content { includeGroup("me.libraryaddict.disguises") }
         }
     }
